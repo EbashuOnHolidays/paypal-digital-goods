@@ -2,6 +2,8 @@
 
 namespace PopcornPHP\PayPal;
 
+use Exception;
+
 /**
  * An interface for the PayPal Digital Goods with Express Checkout API with an emphasis on being friendly to humans.
  *

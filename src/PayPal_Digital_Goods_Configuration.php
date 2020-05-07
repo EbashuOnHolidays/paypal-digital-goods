@@ -2,6 +2,8 @@
 
 namespace PopcornPHP\PayPal;
 
+use Exception;
+
 /**
  * Configuration registry
  * Inspired by the Braintree PHP Library: https://github.com/braintree/braintree_php
